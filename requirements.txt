@@ -1,0 +1,14 @@
+streamlit 
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+scikit-learn
+openai
+pydantic 
+numpy 
+python-dotenv 
+qdrant-client
+nltk
+rank-bm25
+
